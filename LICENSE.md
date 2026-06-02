@@ -1,4 +1,4 @@
-# 
+# Profesional Aseprite flujo de trabajo para Mac OS | Actualizado Aseprite flujo de trabajo para PC Windows. Con herramienta licuar y colaboración en tiempo real — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
